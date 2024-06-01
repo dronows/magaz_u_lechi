@@ -1,3 +1,11 @@
+## Настройка GIT:
+- в gitbash => git --version
+- => git config --global user.name "name"
+- => git confit --user.email "mail"
+- Создать папку (например dev_env)
+- Открыть терминал (cmd) и перейти в папку dev_env
+- в терминале => git clone <ссылка гитхаба>
+- в dev_env будет перетащен код 
 ## Версия питона 3.8...3.11
 - Django 4.2
 ## Расширения в VS Code
@@ -11,7 +19,6 @@
 - CSS Peek
 - Auto Rename Tag
 ## Запуск проекта в VS Code
-1. Создать папку на диске(например dev_env) и закинуть туда папку magaz_u_lechi
 2. Открыть папку dev_env в VS Code
 3. В VS Code => teminal=> python -m venv venv 
 - Создастся папка venv
